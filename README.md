@@ -13,4 +13,4 @@ sudo chmod +x index.php<br />
 
 # Testing
 Check your localhost page and you should be greeted with the new page as below:
-![Snapshot](https://raw.githubusercontent.com/akay25/index.php/master/image.jpgg)
+![Snapshot](https://raw.githubusercontent.com/akay25/index.php/master/image.jpg)
